@@ -11,13 +11,25 @@
           "nombre": "React desde cero"
         },
         {
-          "nombre": "React desde cero"
-        },
-        {
           "nombre": "Java desde cero"
         }
       ],
       "id": "4264"
+    },
+    {
+      "0": {
+        "nombre": "Camila",
+        "apellido": "Dev",
+        "materias": [
+          {
+            "nombre": "Quimica"
+          },
+          {
+            "nombre": "Biologia"
+          }
+        ]
+      },
+      "id": "2b88"
     }
   ],
   "alumnos": [
@@ -28,15 +40,15 @@
       "id": "6c18"
     },
     {
-      "nombre": "Albonfina",
+      "nombre": "Alfonfina",
       "apellido": "Storni",
       "promedio": 10,
       "id": "af8a"
     },
     {
-      "id": "0c26",
+      "id": "27fb",
       "nombre": "George",
-      "apellido": "Orwell",
+      "apellido": "Oswell",
       "promedio": 10
     }
   ],
@@ -49,13 +61,13 @@
     },
     {
       "nombre": "React desde cero",
-      "Duracion": 7,
-      "dificultad": "alta",
+      "Duracion": 8,
+      "dificultad": "intermedia",
       "id": "0c3b"
     },
     {
-      "nombre": "Angular desde cero",
-      "Duracion": 7,
+      "nombre": "Angular 17 desde cero",
+      "Duracion": 8,
       "dificultad": "alta",
       "id": "a69c"
     }
